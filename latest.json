@@ -1,0 +1,13 @@
+{
+  "version": "0.1.28",
+  "date": "2026-11-24",
+  "notes": "VSTHost units follow LV1 sessions by name; online updates.",
+  "windows": {
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.28/CompanionSurface-Setup.exe",
+    "sha256": "c3ed163db804b3cdbe49a331933faa7a3bfd66b59c614ba7d8383e6fba2542c6"
+  },
+  "macos": {
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.28/CompanionSurface-Setup.pkg",
+    "sha256": "51220c0bd29bbcd38da66d2d9f45be7e48a9c4471990166cc43016b4c8356909"
+  }
+}
