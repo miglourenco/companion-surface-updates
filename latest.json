@@ -1,13 +1,13 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "date": "2026-11-24",
-  "notes": "VSTHost units follow LV1 sessions by name; online updates.",
+  "notes": "The session's name right after eMotion starts (VSTHost units saw \"Untitled\").",
   "windows": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.28/CompanionSurface-Setup.exe",
-    "sha256": "c3ed163db804b3cdbe49a331933faa7a3bfd66b59c614ba7d8383e6fba2542c6"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.29/CompanionSurface-Setup.exe",
+    "sha256": "709fc719520a6ec167abac3f00b38621404f14eaa25089d39962637575da5d4f"
   },
   "macos": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.28/CompanionSurface-Setup.pkg",
-    "sha256": "51220c0bd29bbcd38da66d2d9f45be7e48a9c4471990166cc43016b4c8356909"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.29/CompanionSurface-Setup.pkg",
+    "sha256": "472014fa40c07ac6e0a6c94b47f9e215e4d0869f943f9fc36ba62c6b7aa9bf86"
   }
 }
