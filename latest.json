@@ -1,13 +1,13 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "date": "2026-11-24",
-  "notes": "The session's name right after eMotion starts (VSTHost units saw \"Untitled\").",
+  "notes": "Lock images: clearer examples in the settings window (Tour_%.png for every session whose name starts with Tour_).",
   "windows": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.29/CompanionSurface-Setup.exe",
-    "sha256": "709fc719520a6ec167abac3f00b38621404f14eaa25089d39962637575da5d4f"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.30/CompanionSurface-Setup.exe",
+    "sha256": "4dd0fbcc99857fbaf8dc2d08e33dd62c7fc567007e5b60876959038e7920f783"
   },
   "macos": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.29/CompanionSurface-Setup.pkg",
-    "sha256": "472014fa40c07ac6e0a6c94b47f9e215e4d0869f943f9fc36ba62c6b7aa9bf86"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.30/CompanionSurface-Setup.pkg",
+    "sha256": "ad281f3e9925b432d12efb0e67f43b792f5204d469f5208d0a8be2727d4b73ae"
   }
 }
