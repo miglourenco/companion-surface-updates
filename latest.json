@@ -1,9 +1,13 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.33",
   "date": "2026-11-27",
-  "notes": "eMotion LV1 17.10 beta: flips, sends to Monitors and Modes presets / INPUTS / MIX work again (eMotion 17.10 numbers the Monitor buses differently). eMotion 17.3 works as before.",
+  "notes": "eMotion LV1 17.10 beta: flips, sends to Monitors and Modes presets work; Modes presets and INPUTS / MIX on macOS too; much lighter inside eMotion.",
   "windows": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.31/CompanionSurface-Setup.exe",
-    "sha256": "33a814bc319422890c8af948035cd5489b10a5fb573b76d4035aac0f15a800d4"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.33/CompanionSurface-Setup.exe",
+    "sha256": "d757aee0caaa36153d63970b8ab77aaee81a4a12ad08a252b8bf43b3749c7ad2"
+  },
+  "macos": {
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.33/CompanionSurface-Setup.pkg",
+    "sha256": "24832eaeb58b106c324824f07534662e8be5920ee47aaeb98bc61fd4f4d6d7b2"
   }
 }
