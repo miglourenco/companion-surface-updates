@@ -1,13 +1,9 @@
 {
-  "version": "0.1.30",
-  "date": "2026-11-24",
-  "notes": "Lock images: clearer examples in the settings window (Tour_%.png for every session whose name starts with Tour_).",
+  "version": "0.1.31",
+  "date": "2026-11-27",
+  "notes": "eMotion LV1 17.10 beta: flips, sends to Monitors and Modes presets / INPUTS / MIX work again (eMotion 17.10 numbers the Monitor buses differently). eMotion 17.3 works as before.",
   "windows": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.30/CompanionSurface-Setup.exe",
-    "sha256": "4dd0fbcc99857fbaf8dc2d08e33dd62c7fc567007e5b60876959038e7920f783"
-  },
-  "macos": {
-    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.30/CompanionSurface-Setup.pkg",
-    "sha256": "ad281f3e9925b432d12efb0e67f43b792f5204d469f5208d0a8be2727d4b73ae"
+    "url": "https://github.com/miglourenco/companion-surface-updates/releases/download/v0.1.31/CompanionSurface-Setup.exe",
+    "sha256": "33a814bc319422890c8af948035cd5489b10a5fb573b76d4035aac0f15a800d4"
   }
 }
